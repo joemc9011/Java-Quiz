@@ -2,6 +2,7 @@
 
 This quiz runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code. It is a timed coding assement including with multiple-choice questions.
 
+https://joemc9011.github.io/quiz.hw/
 # Technologies Used
 -Javascript
 -HTML
